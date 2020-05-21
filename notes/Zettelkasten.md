@@ -2,8 +2,8 @@
 
 ## Tags
 
-- tag:zettelkasten
-- tag:learning
+- tag-zettelkasten
+- tag-learning
 
 ## Notes
 
