@@ -1,6 +1,13 @@
 # MyZettelkasten
+
 Welcome to my second memory.
 
-Rules
+## Notes Structure
 
-- Tags are written in `kebab-case` with the prefix `tag-`
+Each note contains the following elements:
+
+- Title
+- Tags
+  - Tags are written in `kebab-case` with the prefix `tag-` to be easy to be searched.
+- Notes
+- References
