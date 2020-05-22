@@ -17,7 +17,7 @@
   - We worry about problems that won't be solved immediately by our actions - we work today to get a paycheck in a few week, for instance.
 - The Delayed Return Environment causes chronic anxiety and stress because our brain was designed to live in an Immediate Return Environment.
   - Our brain has roughly the same size as our ancestors of two hundred thousand years ago.
-  - On the other side, the society became mostly Delayed Return Environment about 500 years ago, which is a very small window of time to our brain evolve.
+  - On the other side, the society became mostly Delayed Return Environment about 500 years ago, which is a very small window of time to our brain to evolve.
 - The Immediate Return Environment creates some stress and anxiety. It was necessary to help our ancestors (and some wild animals) to survive.
   - A lion appear -> you fell stressed -> you run away to survive -> the stress is relieved.
 - Nowadays, we still expect the same process, except that the relived part doesn't occur immediately.
