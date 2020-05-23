@@ -1,4 +1,4 @@
-# MyZettelkasten
+# My Zettelkasten
 
 Welcome to my second memory.
 
