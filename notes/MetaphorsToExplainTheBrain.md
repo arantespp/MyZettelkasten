@@ -6,6 +6,9 @@
 
 - tag-brain
 - tag-memory
+- tag-hydraulic-engineering
+- tag-humours
+- tag-telegraph
 - tag-computer
 - tag-thomas-hobbes
 - tag-hermann-von-helmholtz
