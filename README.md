@@ -6,8 +6,10 @@ Welcome to my second memory.
 
 Each note contains the following elements:
 
-- Title
-- Tags
+- Title (#)
+- Tags (##)
   - Tags are written in `kebab-case` with the prefix `tag-` to be easy to be searched.
-- Notes
-- References
+- Notes (##)
+- Backlinks (##)
+  - Refer to notes
+- References (##)
