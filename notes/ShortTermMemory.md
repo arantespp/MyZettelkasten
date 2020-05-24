@@ -1,4 +1,4 @@
-# Short Memory
+# Short-Term Memory
 
 TODO
 
