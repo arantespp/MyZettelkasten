@@ -4,8 +4,8 @@
 
 ## Tags
 
-- tag-learning
 - tag-feynman-technique
+- tag-learning
 
 ## Notes
 
@@ -18,6 +18,6 @@
   4. Review and simplify.
 - You're understanding something, not only learning the names of something.
   
-  ## References
+## References
   
-  - [The Feynman Technique: The Best Way to Learn Anything](https://fs.blog/2012/04/feynman-technique/)
+- [The Feynman Technique: The Best Way to Learn Anything](https://fs.blog/2012/04/feynman-technique/)
