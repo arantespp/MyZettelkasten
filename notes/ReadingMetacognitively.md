@@ -18,6 +18,10 @@
 - You try every time to make connections with another subject.
 - Slows down your speed reading because you need more time to engage with the material.
 
+## Backlinks
+
+- [The Feynman Technique](./TheFeynmanTechnique.md)
+
 ## References
 
 - [Slow-Reading is the New Deep Learning](https://medium.com/better-humans/slow-reading-is-the-new-deep-learning-452f179c0289#da41)
