@@ -4,8 +4,8 @@
 
 ## Tags
 
-- tag-mind
 - tag-human-connection
+- tag-mind
 
 ## Notes
 
