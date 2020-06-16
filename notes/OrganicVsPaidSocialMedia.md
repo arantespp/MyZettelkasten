@@ -5,9 +5,9 @@
 ## Tags
 
 - tag-marketing
-- tag-social-media
-- tag-paid-social-media
 - tag-organic-social-media
+- tag-paid-social-media
+- tag-social-media
 
 ## Notes
 
